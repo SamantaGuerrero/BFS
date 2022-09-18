@@ -110,7 +110,7 @@ int main() {
 	g.addEdge(5, 4);
 	
 	//Realiza BFS e imprime resultado
-	g.BFS(2);
+	g.BFS(5);
 	
 	return 0;
 }
